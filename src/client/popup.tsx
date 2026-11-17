@@ -103,7 +103,7 @@ function Popup({ hiddenOn }: { hiddenOn?: (pathname: string) => boolean }) {
         title={
           <span className="inline-flex items-center gap-2">
             <Sparkles className="size-4 text-primary" aria-hidden />
-            What&apos;s new
+            What&apos;s New
           </span>
         }
         footer={
